@@ -1,2 +1,2 @@
 # Cleaning-Data
-Exploring several strategies to clean data
+We explore several strategies to clean data
